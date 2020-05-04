@@ -1,0 +1,32 @@
+
+h1 {
+	color: #444444;
+	font-size: 190%;
+}
+
+header {
+	text-align: center;
+	font-family: Helvetica, Arial, Verdana;
+	font-style: normal;
+	font-size: 140%;
+}
+
+img {
+	width: 30%;
+	display: block;
+}
+
+footer {
+	text-align: center;
+	font-family: Helvetica, Arial, Verdana;
+	font-style: normal;
+	font-size: 120%;
+}
+
+i {
+	font-size: 3rem;
+	color: #4c4c4c;
+}
+
+
+
